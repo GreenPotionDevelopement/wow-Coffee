@@ -1,19 +1,19 @@
 {
     "ver": "0.01",
     "patches": [
-        "patch": {
+         {
            "name": "testName",
            "url": "test"
         },
-        "patch": {
+        {
            "name": "testName1",
            "url": "test1"
         },
-        "patch": {
+        {
            "name": "testName2",
            "url": "test2"
         },
-        "patch": {
+         {
            "name": "testName3",
            "url": "test3"
         }
