@@ -2,16 +2,20 @@
     "ver": "0.01",
     "patches": [
          {
-           "name": "testName",
-           "url": "test"
+           "name": "Patch-B.MPQ",
+           "url": "https://www.dropbox.com/s/0necnfjotzaleb8/Patch-B.mpq?dl=1"
         },
-        {
-           "name": "testName1",
-           "url": "test1"
+         {
+           "name": "Patch-B.MPQ",
+           "url": "https://www.dropbox.com/s/0necnfjotzaleb8/Patch-B.mpq?dl=1"
         },
-        {
-           "name": "testName2",
-           "url": "test2"
+         {
+           "name": "Patch-B.MPQ",
+           "url": "https://www.dropbox.com/s/0necnfjotzaleb8/Patch-B.mpq?dl=1"
+        },
+         {
+           "name": "Patch-B.MPQ",
+           "url": "https://www.dropbox.com/s/0necnfjotzaleb8/Patch-B.mpq?dl=1"
         },
          {
            "name": "Patch-B.MPQ",
